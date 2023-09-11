@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1057042644731",
+    "project_id": "napa-stores-44cb6",
+    "storage_bucket": "napa-stores-44cb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057042644731:android:ce65b6ead157bff7833a5e",
+        "android_client_info": {
+          "package_name": "com.napa.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057042644731-2ldj3r60bgafu2mj1jeah2vsoag3shfp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9FvUfN_9020oYYZkHqSP6HlNSU7OHqXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057042644731-2ldj3r60bgafu2mj1jeah2vsoag3shfp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1057042644731-ibct6cbq2fe7o43ir1b27g57vkujsrl2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.napa.rider"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057042644731:android:a4f48e42368904a0833a5e",
+        "android_client_info": {
+          "package_name": "com.napa.stores"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057042644731-2ldj3r60bgafu2mj1jeah2vsoag3shfp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9FvUfN_9020oYYZkHqSP6HlNSU7OHqXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057042644731-2ldj3r60bgafu2mj1jeah2vsoag3shfp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1057042644731-ibct6cbq2fe7o43ir1b27g57vkujsrl2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.napa.rider"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
